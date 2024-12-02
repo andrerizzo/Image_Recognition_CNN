@@ -7,3 +7,5 @@ This project covers very important topics in CNNs design, such as:
 * Build and train a CNN from scratch using TensorFlow/Keras.  
 * Visualizing and interpreting CNN filters and feature maps.  
 * Tuning hyperparameters to improve model performance.  
+
+I developed nine different models each one with specific hyperparameters configurations in order to improve the final model accuracy.
